@@ -44,6 +44,12 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrajay10&show_icons=true&theme=tokyonight)
 
+---
+
+### 🏆 LeetCode Statistics
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/AjayDangi26theme=tokyonight&extension=activity)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrajay10&layout=compact&theme=tokyonight)
 
 ---
