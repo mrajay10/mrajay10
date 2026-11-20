@@ -1,6 +1,6 @@
 
 
-### 🛠️ Technical Skills
+### 🛠️ Technical Skills ###
 
 **Programming Languages**
 <!-- INTRODUCTION -->
@@ -13,7 +13,7 @@
 </p>
 
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me ###
 
 - 🎓 Currently pursuing BCA at Jharkhand Rai University.
 - 💻 Learning C, Java and Python.
