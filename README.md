@@ -2,7 +2,6 @@
 
 <!--🛠️ Technical Skills -->
 
-**Programming Languages**
 <!-- INTRODUCTION -->
 <h1 align="center">Hi 👋, I'm Ajay Dangi</h1>
 <h3 align="center">BCA Student | Aspiring Software Developer </h3>
