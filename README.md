@@ -1,4 +1,4 @@
----
+
 
 ### 🛠️ Technical Skills
 
@@ -12,7 +12,6 @@
   problem-solving and Artificial Intelligence.
 </p>
 
----
 
 ### 👨‍💻 About Me
 
