@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Dangi</h1>
-<h3 align="center">BCA Student | MERN Stack Developer | DSA in Java</h3>
+<h3 align="center">BCA Student | Aspiring DevOPs Enginner | MERN Stack | DSA in Java</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mrajay10&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Ajay's profile views"/>
@@ -105,5 +105,9 @@ Hosts can publish listings with photos and map locations, and visitors can leave
 
 <h3 align="left"> 🏆 LeetCode Stats</h3>
 <p align="center">
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/AjayDangi26?theme=tokyonight&extension=activity)
+  <img
+  ![LeetCode Stats]<img src="https://leetcard.jacoblin.cool/AjayDangi26?theme=tokyonight&extension=activity" width="48%" alt="Ajay's LeetCode Status" 
+    />
 </p>
+
+<p align="center">"Thanks! For visiting my profile"</p>
