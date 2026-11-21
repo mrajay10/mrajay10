@@ -13,7 +13,7 @@
 
 <h3 align="left">Competitive Programming Profiles</h3>
 <p align="left">
-  <a href="https://leetcode.com/u/AjayDangi26/"><img src="https://img.shields.io/badge/LeetCode-70%2B%20Solved-orange?style=for-the-badge&amp;logo=leetcode" alt="AjayDangi26 on LeetCode, 70+ problems solved"/></a>
+  <a href="https://leetcode.com/u/AjayDangi26/"><img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-orange?style=for-the-badge&amp;logo=leetcode" alt="AjayDangi26 on LeetCode, 70+ problems solved"/></a>
 </p>
 
 <h3 align="left">Connect with Me</h3>
@@ -76,6 +76,8 @@
 
 ### 📈 DhanSetu · Stock Trading Platform
 
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/mrajay10/DhanSetu)
+
 Users can sign in, view their holdings and positions, and place new orders from a React dashboard. The Express backend retrieves portfolio data from MongoDB Atlas and integrates market data through an API.
 
 **Tech stack** · React, JavaScript, Node.js, Express.js, MongoDB Atlas, Passport.js
@@ -84,11 +86,12 @@ Users can sign in, view their holdings and positions, and place new orders from 
 
 ### 🏡 Wanderlust · Homestay Listing Platform
 
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/mrajay10/WanderLust)
+[![Demo](https://img.shields.io/badge/Live_Demo-View-blue?style=for-the-badge)](https://wanderlust-lepl.onrender.com/listings)
+
 Hosts can publish listings with photos and map locations, and visitors can leave reviews. I added ownership checks for listing edits and used Joi to validate form submissions on the server.
 
 **Tech stack** · Node.js, Express.js, EJS, MongoDB, Passport.js, Cloudinary, Mapbox, Joi
-
-[![Browse my GitHub repositories](https://img.shields.io/badge/GitHub-Browse_my_repositories-181717?style=for-the-badge&logo=github)](https://github.com/mrajay10?tab=repositories)
 
 <h3 align="left">GitHub Stats</h3>
 
