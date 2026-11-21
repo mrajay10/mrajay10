@@ -99,11 +99,8 @@ Hosts can publish listings with photos and map locations, and visitors can leave
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrajay10&amp;layout=compact&amp;theme=radical&amp;hide_border=true" alt="Most-used languages in Ajay's repositories" width="48%"/>
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrajay10&amp;theme=radical" alt="Ajay's GitHub profile trophies"/>
-</p>
 
 <h3 align="left"> 🏆 LeetCode Stats</h3>
 <p align="center">
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/Ajaydangi26?theme=tokyonight&extension=activity)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/AjayDangi26?theme=tokyonight&extension=activity)
 </p>
